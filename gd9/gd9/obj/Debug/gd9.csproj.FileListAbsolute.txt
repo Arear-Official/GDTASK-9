@@ -1,0 +1,8 @@
+C:\Users\37533\Desktop\C#\gd9\gd9\bin\Debug\gd9.exe.config
+C:\Users\37533\Desktop\C#\gd9\gd9\bin\Debug\gd9.exe
+C:\Users\37533\Desktop\C#\gd9\gd9\bin\Debug\gd9.pdb
+C:\Users\37533\Desktop\C#\gd9\gd9\obj\Debug\gd9.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\C#\gd9\gd9\obj\Debug\gd9.csproj.SuggestedBindingRedirects.cache
+C:\Users\37533\Desktop\C#\gd9\gd9\obj\Debug\gd9.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\C#\gd9\gd9\obj\Debug\gd9.exe
+C:\Users\37533\Desktop\C#\gd9\gd9\obj\Debug\gd9.pdb
